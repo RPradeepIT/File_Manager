@@ -1,0 +1,17 @@
+For Reactapp
+1. yarn install (or) npm install
+2. yarn dev
+
+If need to change drive path means
+1. In file manager Page in custom control component, change state value mainselectedData. 
+	This mainselectedData is use to fetch the folder data.
+2. In file manager Page in custom control component, change state value selectedData. 
+	This selectedData is use to fetch the files details.
+
+----------------------------------------------------------------------------------
+
+For Nodeapp
+1. npm install
+2. npm start (or) node server.js
+
+

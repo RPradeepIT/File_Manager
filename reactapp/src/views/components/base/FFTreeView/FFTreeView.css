@@ -1,0 +1,12 @@
+.treeview {
+}
+
+.treeview .treeview__treeitem .treeview__treeitem_label {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.DriveIcon-image {
+  height: 1.5rem;
+}
